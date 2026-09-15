@@ -61,6 +61,7 @@ Notes (Protected)
     DELETE /notes/{id} → Delete a note
 
 ## Project Structure
+```
 secure-notes-api
 │
 ├── app/
@@ -75,4 +76,4 @@ secure-notes-api
 │
 ├── requirements.txt
 └── README.md
-
+```
