@@ -1,7 +1,7 @@
-#Secure Notes API
+# Secure Notes API
 A RESTful API built with FastAPI for managing Notes with secure user authentication.
 
-##Tech Stack
+## Tech Stack
 -Python
 -FastAPI
 -SQLAlchemy
